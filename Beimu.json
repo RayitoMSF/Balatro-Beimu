@@ -1,0 +1,8 @@
+{
+	"id": "Beimu",
+	"name": "Torashiro Beimu",
+	"author": ["RayitoMSF"],
+    "description": "Adds 2 new Jokers, Torashiro Beimu and Toranogetsu belong to LtPie484.",
+    "prefix": "TorashiroBeimu",
+    "main_file": "Beimu.lua"
+}
